@@ -1,6 +1,6 @@
 ## Welcome to Nomorelight 
 
-This is the marketing / support page of the app.
+This is the marketing / support page of the app
 
 ### Support or Contact
 
